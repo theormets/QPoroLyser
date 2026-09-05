@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+gradio
+Pillow
+numpy
+matplotlib
+pandas 
+torch 
+xlsxwriter
